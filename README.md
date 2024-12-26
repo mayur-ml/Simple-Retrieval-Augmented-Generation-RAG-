@@ -25,7 +25,7 @@ Ensure you have Python installed along with the required dependencies.
 
 2. Install the dependencies:
    ```bash
-   pip install -r requirements.yaml
+   pip install -r environment.yaml
    ```
 
 3. Run the application:

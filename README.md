@@ -66,4 +66,6 @@ Feel free to open issues or submit pull requests if you have suggestions or impr
 ## Contact
 For any questions, reach out to `myringole@gmail.com`.
 
+## License
+This project is licensed under the [MIT License](./LICENSE).
 
